@@ -1,7 +1,5 @@
 
-> FreshFoods is a online food & grocery delivery service app built with Django with Esewa payment integration.
-
-We have used ``Faker`` to generate fake data automatically.
+> Apni Mandi is a online food & grocery delivery service app built with Django with Esewa payment integration.
 
 ## Getting Started  
 
@@ -11,7 +9,7 @@ To get a local copy up and running follow these simple example steps.
 
 2. Clone the repo :
     ```sh
-     git clone https://github.com/1hanzla100/flutter-yumniastic
+     git clone https://github.com/talhahafeez786/ApniMandi-Django-master.git
     ```
 3. (optional) Create and activate a [virtualenv](https://virtualenv.pypa.io/) (you may want to use [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/)).
 
@@ -32,9 +30,5 @@ To get a local copy up and running follow these simple example steps.
 
 7. Open your browser and go to http://127.0.0.1:8000, you will be greeted with a welcome page.
 
-
-## Generate fake data
-
-Make use of management command `python manage.py createdata`  to generate fake categories and products automatically.
 
 
